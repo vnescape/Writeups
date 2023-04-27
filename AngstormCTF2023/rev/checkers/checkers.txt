@@ -1,0 +1,3 @@
+Just open it in any Disassembler and get the flag right in front of you:
+It's a simple hardcoded check
+actf{ive_be3n_checkm4ted_21d1b2cebabf983f}
