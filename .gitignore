@@ -1,2 +1,14 @@
-# Exclude IDBs
-*.i64
+# IDA Pro files
+*.idb
+*.id0
+*.nam
+*.til
+
+# macOS Finder metadata
+.DS_Store
+._*
+
+# Other files to ignore
+*.swp
+*.bak
+*.tmp
